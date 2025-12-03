@@ -16,4 +16,7 @@ Welcome to the documentation pages for the Celbridge OSS (`celbridge.org`_) work
    :caption: Contents:
 
    installation
+   examples
    python_versions
+   console
+   sphinx
