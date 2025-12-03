@@ -17,5 +17,3 @@ Welcome to the documentation pages for the Celbridge OSS (`celbridge.org`_) work
 
    installation
    python_versions
-   package/module
-   reference
