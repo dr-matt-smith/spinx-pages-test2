@@ -5,7 +5,7 @@ Celbridge comes with a CLI (Command Line Interface) **Terminal** panel. The prom
 
 The terminal is where you'll see messages from Celbridge, such as the status of loading new extensions or a different version of Python if you change the project settings and re-load the project.
 
-.. image:: .\\images\\console.png
+.. image:: /images/console.png
    :alt: Screenshot showing Console panel with some Python REPL commands
 
 
@@ -75,4 +75,5 @@ Learn more about REPLs and this console at:
 .. _repl: https://en.wikipedia.org/wiki/Replit
 .. _cli: https://en.wikipedia.org/wiki/Command-line_interface
 .. _make: https://en.wikipedia.org/wiki/Make_(software)
+
 .. _Sphinx: https://www.formosa1544.com/2019/09/19/use-sphinx-for-python-documentation/
