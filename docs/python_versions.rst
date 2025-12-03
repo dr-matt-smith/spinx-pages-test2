@@ -30,7 +30,7 @@ For example, let's add the data analysis library `Pandas`_  to our Celbridge pro
     - ensure you wrap double-quotes around the package name.
 
 
-.. image:: .\\images\\project_settings.png
+.. image:: /images/project_settings.png
    :alt: Screenshot showing Python version and extensions in .celbridge configuration file
 
 
@@ -52,3 +52,4 @@ For a list of Python packages visit `Pypi`_
 
 .. _Pypi: https://pypi.org/
 .. _Pandas: https://pandas.pydata.org/
+
