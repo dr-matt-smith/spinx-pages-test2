@@ -142,7 +142,7 @@ Here's the output I got when runnning this quickstart:
 
 9. Once you server the HTML files one the home page should see a link **Hello world**, linking to your simple Hello World generated HTML page:
 
-.. image:: .\\images\\hello_page.png
+.. image:: /images/hello_page.png
    :alt: Screenshot showing Hello World page now part of website and nav list
 
 
@@ -165,4 +165,5 @@ This `sphinx_guide`_ was useful in creating this documenqation page.
 .. _sphinx_guide: https://www.formosa1544.com/2019/09/19/use-sphinx-for-python-documentation/
 
 .. _rst_guide: https://restructuredtext-guide.readthedocs.io/en/latest/ch_syntax.html
+
 
